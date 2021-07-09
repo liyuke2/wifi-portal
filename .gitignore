@@ -1,9 +1,10 @@
 #
 package-lock.json
 /**/node_modules
-/server/node_modules
-/server/html
-/wifi/node_modules
-/wifi/dist
+/**/dist
+#/server/node_modules
+#/server/html
+#/wifi/node_modules
+#/wifi/dist
 
 
