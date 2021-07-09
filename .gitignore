@@ -1,8 +1,8 @@
-
-node_modules/
-server/node_modules/
-server/dist/
-wifi/node_modules/
-wifi/dist/
+#
+/**/node_modules/
+/server/node_modules/
+/server/html/
+/wifi/node_modules/
+/wifi/dist/
 
 
