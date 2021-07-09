@@ -1,10 +1,6 @@
 #
 package-lock.json
-/**/node_modules
-/**/dist
-#/server/node_modules
-#/server/html
-wifi/node_modules/
-wifi/dist/
+**/node_modules/
+**/dist/
 
 
