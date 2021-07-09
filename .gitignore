@@ -4,7 +4,7 @@ package-lock.json
 /**/dist
 #/server/node_modules
 #/server/html
-#/wifi/node_modules
-#/wifi/dist
+wifi/node_modules/
+wifi/dist/
 
 
